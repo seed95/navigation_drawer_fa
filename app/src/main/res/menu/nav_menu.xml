@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="ورود"
+            android:id="@+id/nav_enter"
+            android:icon="@drawable/ic_fitness_center"/>
+
+        <item android:title="تنظیمات"
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings_applications"/>
+
+    </group>
+
+</menu>
